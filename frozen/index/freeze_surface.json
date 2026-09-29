@@ -1,0 +1,122 @@
+{
+  "experiments": {
+    "experiments/exp003_robustness": {
+      "paths": [
+        "experiments/exp003_robustness/config.json",
+        "experiments/exp003_robustness/figures/pct_multi_vs_binwidth.png",
+        "experiments/exp003_robustness/log.md",
+        "experiments/exp003_robustness/parameters.json",
+        "experiments/exp003_robustness/processed_results.csv",
+        "experiments/exp003_robustness/raw_results.csv",
+        "experiments/exp003_robustness/run.py",
+        "experiments/exp003_robustness/seed.txt"
+      ],
+      "coverage": "sidecar",
+      "freeze_source": "index/freeze_hashes/exp003.json",
+      "exactset_source": "index/freeze_hashes/exp003.json",
+      "source_commit": "b7567a28695419429f9d3c7090f363dfd69d8668"
+    },
+    "experiments/exp004_envelope": {
+      "paths": [
+        "experiments/exp004_envelope/envelope.json",
+        "experiments/exp004_envelope/figures/step_support.png",
+        "experiments/exp004_envelope/log.md",
+        "experiments/exp004_envelope/parameters.json",
+        "experiments/exp004_envelope/run.py",
+        "experiments/exp004_envelope/seed.txt"
+      ],
+      "coverage": "sidecar",
+      "freeze_source": "index/freeze_hashes/exp004.json",
+      "exactset_source": "index/freeze_hashes/exp004.json",
+      "source_commit": "b7567a28695419429f9d3c7090f363dfd69d8668"
+    },
+    "experiments/exp005_convergent_generator": {
+      "paths": [
+        "experiments/exp005_convergent_generator/FROZEN.md",
+        "experiments/exp005_convergent_generator/config.json",
+        "experiments/exp005_convergent_generator/freeze_hashes.json",
+        "experiments/exp005_convergent_generator/log.md",
+        "experiments/exp005_convergent_generator/parameters.json",
+        "experiments/exp005_convergent_generator/processed_results.json",
+        "experiments/exp005_convergent_generator/raw_results.csv",
+        "experiments/exp005_convergent_generator/run.py",
+        "experiments/exp005_convergent_generator/seed.txt"
+      ],
+      "coverage": "internal",
+      "freeze_source": "experiments/exp005_convergent_generator/freeze_hashes.json",
+      "exactset_source": "index/freeze_hashes/exp005.json",
+      "source_commit": "b7567a28695419429f9d3c7090f363dfd69d8668"
+    },
+    "experiments/exp006_pdi_measurement": {
+      "paths": [
+        "experiments/exp006_pdi_measurement/TARGET_SELECTION_PROTOCOL.md",
+        "experiments/exp006_pdi_measurement/config.json",
+        "experiments/exp006_pdi_measurement/figures/pdi_distribution.png",
+        "experiments/exp006_pdi_measurement/figures/pdi_vs_ars.png",
+        "experiments/exp006_pdi_measurement/log.md",
+        "experiments/exp006_pdi_measurement/parameters.json",
+        "experiments/exp006_pdi_measurement/processed_results.csv",
+        "experiments/exp006_pdi_measurement/raw_results.csv",
+        "experiments/exp006_pdi_measurement/rejected_targets.csv",
+        "experiments/exp006_pdi_measurement/run.py",
+        "experiments/exp006_pdi_measurement/seed.txt",
+        "experiments/exp006_pdi_measurement/selected_targets.json",
+        "experiments/exp006_pdi_measurement/summary.json"
+      ],
+      "coverage": "sidecar",
+      "freeze_source": "index/freeze_hashes/exp006.json",
+      "exactset_source": "index/freeze_hashes/exp006.json",
+      "source_commit": "b7567a28695419429f9d3c7090f363dfd69d8668"
+    },
+    "experiments/exp007_memory_enumeration": {
+      "paths": [
+        "experiments/exp007_memory_enumeration/config.json",
+        "experiments/exp007_memory_enumeration/figures/reachable_acu_grid.png",
+        "experiments/exp007_memory_enumeration/log.md",
+        "experiments/exp007_memory_enumeration/parameters.json",
+        "experiments/exp007_memory_enumeration/processed_results.csv",
+        "experiments/exp007_memory_enumeration/raw_results.csv",
+        "experiments/exp007_memory_enumeration/run.py",
+        "experiments/exp007_memory_enumeration/seed.txt"
+      ],
+      "coverage": "sidecar",
+      "freeze_source": "index/freeze_hashes/exp007.json",
+      "exactset_source": "index/freeze_hashes/exp007.json",
+      "source_commit": "b7567a28695419429f9d3c7090f363dfd69d8668"
+    },
+    "experiments/exp008_generator_v2_verification": {
+      "paths": [
+        "experiments/exp008_generator_v2_verification/config.json",
+        "experiments/exp008_generator_v2_verification/freeze_hashes_v2.json",
+        "experiments/exp008_generator_v2_verification/log.md",
+        "experiments/exp008_generator_v2_verification/parameters.json",
+        "experiments/exp008_generator_v2_verification/raw_results.csv",
+        "experiments/exp008_generator_v2_verification/run.py",
+        "experiments/exp008_generator_v2_verification/seed.txt"
+      ],
+      "coverage": "internal",
+      "freeze_source": "experiments/exp008_generator_v2_verification/freeze_hashes_v2.json",
+      "exactset_source": "index/freeze_hashes/exp008.json",
+      "source_commit": "b7567a28695419429f9d3c7090f363dfd69d8668"
+    },
+    "experiments/exp009_pdi_v2": {
+      "paths": [
+        "experiments/exp009_pdi_v2/INTEGRITY_AUDIT.md",
+        "experiments/exp009_pdi_v2/config.json",
+        "experiments/exp009_pdi_v2/figures/pdi_distribution.png",
+        "experiments/exp009_pdi_v2/figures/pdi_vs_ars.png",
+        "experiments/exp009_pdi_v2/log.md",
+        "experiments/exp009_pdi_v2/parameters.json",
+        "experiments/exp009_pdi_v2/processed_results.csv",
+        "experiments/exp009_pdi_v2/raw_results.csv",
+        "experiments/exp009_pdi_v2/run.py",
+        "experiments/exp009_pdi_v2/seed.txt",
+        "experiments/exp009_pdi_v2/summary.json"
+      ],
+      "coverage": "sidecar",
+      "freeze_source": "index/freeze_hashes/exp009.json",
+      "exactset_source": "index/freeze_hashes/exp009.json",
+      "source_commit": "b7567a28695419429f9d3c7090f363dfd69d8668"
+    }
+  }
+}

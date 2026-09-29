@@ -1,0 +1,44 @@
+{
+  "experiments": {
+    "experiments/exp010_trap_baseline": {
+      "paths": [
+        "experiments/exp010_trap_baseline/config.json",
+        "experiments/exp010_trap_baseline/figures/baseline.png",
+        "experiments/exp010_trap_baseline/figures/baseline_figure_data.csv",
+        "experiments/exp010_trap_baseline/figures/trajectory.png",
+        "experiments/exp010_trap_baseline/figures/trajectory_figure_data.csv",
+        "experiments/exp010_trap_baseline/log.md",
+        "experiments/exp010_trap_baseline/make_figures.py",
+        "experiments/exp010_trap_baseline/parameters.json",
+        "experiments/exp010_trap_baseline/processed_results.csv",
+        "experiments/exp010_trap_baseline/raw_results.csv",
+        "experiments/exp010_trap_baseline/run.py",
+        "experiments/exp010_trap_baseline/seed.txt"
+      ],
+      "coverage": "sidecar",
+      "freeze_source": "index/freeze_hashes/exp010.json",
+      "exactset_source": "index/freeze_hashes/exp010.json",
+      "source_commit": "a2bb2c74c17c58ccee9925d75b88a954ed39d6c1"
+    },
+    "experiments/exp011_trap_sensitivity": {
+      "paths": [
+        "experiments/exp011_trap_sensitivity/config.json",
+        "experiments/exp011_trap_sensitivity/figures/sensitivity.png",
+        "experiments/exp011_trap_sensitivity/figures/sensitivity_figure_data.csv",
+        "experiments/exp011_trap_sensitivity/log.md",
+        "experiments/exp011_trap_sensitivity/make_figures.py",
+        "experiments/exp011_trap_sensitivity/parameters.json",
+        "experiments/exp011_trap_sensitivity/run.py",
+        "experiments/exp011_trap_sensitivity/seed.txt",
+        "experiments/exp011_trap_sensitivity/sweep_k.csv",
+        "experiments/exp011_trap_sensitivity/sweep_theta_e.csv",
+        "experiments/exp011_trap_sensitivity/sweep_theta_r.csv",
+        "experiments/exp011_trap_sensitivity/sweep_weights.csv"
+      ],
+      "coverage": "sidecar",
+      "freeze_source": "index/freeze_hashes/exp011.json",
+      "exactset_source": "index/freeze_hashes/exp011.json",
+      "source_commit": "a2bb2c74c17c58ccee9925d75b88a954ed39d6c1"
+    }
+  }
+}

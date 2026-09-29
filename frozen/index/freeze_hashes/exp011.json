@@ -1,0 +1,14 @@
+{
+  "experiments/exp011_trap_sensitivity/config.json": "6020933a7731b67e0d00aeb94e951c04bd4dc29493c39bbfd5d744d719326c89",
+  "experiments/exp011_trap_sensitivity/figures/sensitivity.png": "314d4505b58355815348f154b993f6024a43d98fc20ecb4a53cd6f73ccabbcba",
+  "experiments/exp011_trap_sensitivity/figures/sensitivity_figure_data.csv": "1cdc8b158c88bfda59c02b35510304d341c67371fb5f735862e183e482372302",
+  "experiments/exp011_trap_sensitivity/log.md": "71cbb43c54cb678e61d87e90e1972d911f95d84a4471e509e63f76b506a20577",
+  "experiments/exp011_trap_sensitivity/make_figures.py": "50bf6b54ba6aa3a63fad586a8e6d6210b3c99071175507b51a0e636ac1037cdc",
+  "experiments/exp011_trap_sensitivity/parameters.json": "bf50e441cf7a0eadeec2525ca1c2c2ac143a7cc6f6ecc4db9b40bacb50da1743",
+  "experiments/exp011_trap_sensitivity/run.py": "b9a108328bf73816ae70789070ff898097ad33020b8ddd1b35f67b5d3ce7d343",
+  "experiments/exp011_trap_sensitivity/seed.txt": "084c799cd551dd1d8d5c5f9a5d593b2e931f5e36122ee5c793c1d08a19839cc0",
+  "experiments/exp011_trap_sensitivity/sweep_k.csv": "2dc802aa5715b39cc04d397fb2e7715031a7041b49b5e80580263112adcc502c",
+  "experiments/exp011_trap_sensitivity/sweep_theta_e.csv": "9192e66706da0cbd0056cc2397335ed05d3c5383abc2d44ce395afdf728d752b",
+  "experiments/exp011_trap_sensitivity/sweep_theta_r.csv": "932f2753810916fc36241cb9b40092a2b2d741377f57d26ceb4096405167516c",
+  "experiments/exp011_trap_sensitivity/sweep_weights.csv": "2c44548f6d4642d798db0a76790dc6fb82db8a529d07c118588feec9513fdd21"
+}

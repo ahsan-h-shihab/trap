@@ -1,0 +1,8 @@
+{
+  "experiments/exp004_envelope/envelope.json": "0b51f11ebf8d84d574bad9eeabf0ee541228d2ec82fa03867083b84b3e6c0aa5",
+  "experiments/exp004_envelope/figures/step_support.png": "7b07e03bbb2f9f4cf949c04fa8f8e74dbe403ae474b478e512c2523f5ceda603",
+  "experiments/exp004_envelope/log.md": "1cf8443ec57eb282aaf64c8f897cf13659238170f9e1c786b1c94c5f0fd179a2",
+  "experiments/exp004_envelope/parameters.json": "bf6f360c6e1db1f04d37af67198077fd51e2c52946697c168ae60b28c337b50a",
+  "experiments/exp004_envelope/run.py": "4939e955c97f637ccf5e6356b4f0885cf2aa5eb5330acf8122158ff7d3fb6384",
+  "experiments/exp004_envelope/seed.txt": "430188b3dd8af848a0c9f05275fef7468cdb74570444cb4ce52d7384d0116568"
+}

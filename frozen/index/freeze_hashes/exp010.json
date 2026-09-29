@@ -1,0 +1,14 @@
+{
+  "experiments/exp010_trap_baseline/config.json": "bb8ad31389e723eefd1818bb4c291b8186586b75a2359f0457d91685c6419f79",
+  "experiments/exp010_trap_baseline/figures/baseline.png": "c2266d74e596cbb59249f58a12e0f5042805071041828d44e998b6f609dd4a1b",
+  "experiments/exp010_trap_baseline/figures/baseline_figure_data.csv": "b463a32b3490b99915be17d61e01952de47ca180d2c49db9fa97c8591f8c1368",
+  "experiments/exp010_trap_baseline/figures/trajectory.png": "14c684cdba40efeff309fe09a83d3e8b9f08bb7f2569278e5ea8728d63febf94",
+  "experiments/exp010_trap_baseline/figures/trajectory_figure_data.csv": "dce96d8d03f1c319e739982965b90fa93c7b29ea888266312dcfd95786638f48",
+  "experiments/exp010_trap_baseline/log.md": "b0aa6a2ba662f1f49d6416038fdd481c1ea74270782373c8f20909d1d907cb71",
+  "experiments/exp010_trap_baseline/make_figures.py": "0606934a69936416d0c278580ff9c3d3b0775b7af6cf298c351398434c11e4e3",
+  "experiments/exp010_trap_baseline/parameters.json": "e88276136027bc956177269f929e7576f109dbed2d88f9f2432b36ab7e0a30bf",
+  "experiments/exp010_trap_baseline/processed_results.csv": "9f0fe55d76e18da570324b05757a305da5dff3df0420df6adf5a3e140f2cf1d1",
+  "experiments/exp010_trap_baseline/raw_results.csv": "8915405ab08a8d63ec3f8bb2ae728a02da2ac7020fa8333cd317de84ddcbbfb1",
+  "experiments/exp010_trap_baseline/run.py": "30f9f3e04a64d9ed089c1d2f2260fd2696e34dcf318aba049d97879e9f2bf937",
+  "experiments/exp010_trap_baseline/seed.txt": "084c799cd551dd1d8d5c5f9a5d593b2e931f5e36122ee5c793c1d08a19839cc0"
+}

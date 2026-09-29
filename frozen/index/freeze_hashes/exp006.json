@@ -1,0 +1,15 @@
+{
+  "experiments/exp006_pdi_measurement/TARGET_SELECTION_PROTOCOL.md": "260e9fc7ebcef004070e37ad23f3d64c7440cbd8690acbf22c18922d3572d2ec",
+  "experiments/exp006_pdi_measurement/config.json": "cffd48196cae65908423c1a46592c1a0c12b44c72efd743e00f0130c2c180d47",
+  "experiments/exp006_pdi_measurement/figures/pdi_distribution.png": "1b3e4134bd17c66f286f176d5f53f8963abac5ae5ade5c03b87ba31114474fb3",
+  "experiments/exp006_pdi_measurement/figures/pdi_vs_ars.png": "c20c9324e6952f5e58b9f21fc2f9bd379f71e2d1176075bea722890a146c5bc8",
+  "experiments/exp006_pdi_measurement/log.md": "11d6e17937ea3c8b946ba0580d35d660c6d7ac6290e0b850a24296ada9183b35",
+  "experiments/exp006_pdi_measurement/parameters.json": "e1662ba9a74a92dff6d2768b1d5ea7106fcce87eefc8d5d9b4bd2bbdc56a8cb0",
+  "experiments/exp006_pdi_measurement/processed_results.csv": "6de2d1712784e670ee0ded8321430ec1a9e069618de95f8806b3ba36bf23ff25",
+  "experiments/exp006_pdi_measurement/raw_results.csv": "ad4159e750c1809cdd474196c60d65f4e292cd2563fed131166a6086e44a4f74",
+  "experiments/exp006_pdi_measurement/rejected_targets.csv": "cb9febcf942f92b41c9ed5fd2f98e55aa920ceaa789ecd886f8d759c580b7791",
+  "experiments/exp006_pdi_measurement/run.py": "0d88aad936ad1db271981c087f854948f0a83879db57cb37703a30e08d259334",
+  "experiments/exp006_pdi_measurement/seed.txt": "fada04e84b86fe41a442fb6ee985a737ecc34eb240caad7627245500d5361ef4",
+  "experiments/exp006_pdi_measurement/selected_targets.json": "0fa583b3d660f38c3983ddfc84fc08c9bbe705f19ac1858175dfc399e3a13c8e",
+  "experiments/exp006_pdi_measurement/summary.json": "4f8aac6cbdef316034978f2484aee1ebbd886d54340f2d809ce981878d557a34"
+}

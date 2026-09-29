@@ -1,0 +1,13 @@
+{
+  "experiments/exp009_pdi_v2/INTEGRITY_AUDIT.md": "32653f295fe1960d0fcaa5483d1f90d79212e76bfcf7450f4af76d089e7cfd2f",
+  "experiments/exp009_pdi_v2/config.json": "ed0cfba1b7bf5b6789d5148ca393b7d9878a7d1255f8136eea92073c4ca7bee5",
+  "experiments/exp009_pdi_v2/figures/pdi_distribution.png": "6b7fbc8ad6d8b39488e674a08d3a767129b0c80e4d1a7a9c1cbdca3a73b0f672",
+  "experiments/exp009_pdi_v2/figures/pdi_vs_ars.png": "26b52480da47b38bc8ec05a820e1a6c16145f55324ae521a78523be744cb7cab",
+  "experiments/exp009_pdi_v2/log.md": "0201bfa5854d238786e89a62c8da156183af6ac708d6b04d4ca99dbd78e0c20e",
+  "experiments/exp009_pdi_v2/parameters.json": "939f6466b2f101c5ff5bd971b47f7fd7acff60e27ce624706565b8d79f7b2500",
+  "experiments/exp009_pdi_v2/processed_results.csv": "81b8976d77ead8ae7307bbe5ba920bf16a8156c737b85af160ee0995f75ee0d3",
+  "experiments/exp009_pdi_v2/raw_results.csv": "19263c2709de1bf25157c09119f6c200800316333349ed3a2ecf1b19588beedf",
+  "experiments/exp009_pdi_v2/run.py": "3b149aebfe8ff9e6a2d49778819b1f6d3662bf776fbd81faa7dfd9bf978abe33",
+  "experiments/exp009_pdi_v2/seed.txt": "fada04e84b86fe41a442fb6ee985a737ecc34eb240caad7627245500d5361ef4",
+  "experiments/exp009_pdi_v2/summary.json": "f01a3df00092eb86bd7862c74eff34c6d0cac5efb3a52212eb80429366400292"
+}
