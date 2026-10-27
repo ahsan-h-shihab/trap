@@ -1,0 +1,5 @@
+condition,L,traces,v1_violations,max_drop_window_max,max_drop_window_mean,traces_with_any_drop_over_thr,trust_signal_window_violations,risk_signal_window_violations,realized_severity_mean,realized_severity_min,realized_severity_max,clamps
+abrupt,1,100,100,0.391186,0.308438,100,100,100,0.308438,0.206166,0.391186,0
+L5,5,100,4,0.112412,0.083194,4,8,100,0.302981,0.215788,0.399473,0
+L10,10,100,0,0.093571,0.059485,0,0,100,0.307859,0.195799,0.417537,0
+L20,20,100,0,0.075325,0.049634,0,0,100,0.308122,0.191914,0.450768,0

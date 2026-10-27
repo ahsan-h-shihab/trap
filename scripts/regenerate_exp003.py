@@ -1,4 +1,4 @@
-"""Regenerate the multi-level condition analysis (exp003; paper Section VI-C and
+"""Regenerate the multi-level condition analysis (exp003; paper Section VI-D and
 Fig. 3) and compare it byte-for-byte with the stored results.
 
 The frozen runner frozen/experiments/exp003_robustness/run.py hard-codes the
