@@ -5,8 +5,8 @@
 Characterization of Policy Behavior and Parameter Sensitivity*
 
 Ahsan Habib Shihab\* (Al-Farabi Kazakh National University) ·
-Štefan Gubo, Ladislav Végh, Imre Gábor Felde (J. Selye University) ·
-Amir Mosavi (Obuda University; J. Selye University)
+Štefan Gubo, Ladislav Végh (J. Selye University) ·
+Imre Felde, Amir Mosavi (Obuda University; J. Selye University)
 <br><sub>\* Corresponding author</sub>
 
 ## Overview
